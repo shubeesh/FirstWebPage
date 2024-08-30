@@ -19,3 +19,13 @@ h3{
     text-align: center;
     font-size: 2.5em;
 }
+
+.classSchedule:first-child{
+    font-style: italic;
+    color: mediumpurple;
+}
+
+.classSchedule:last-child{
+    font-style: italic;
+    color: indianred;
+}
